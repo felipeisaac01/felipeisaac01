@@ -1,9 +1,9 @@
 # Hello, I'm Felipe Isaac!
 
-:construction_worker: I study civil engineering @ Universidade Federal da Bahia - UFBA
+I study civil engineering @ Universidade Federal da Bahia - UFBA :construction_worker:
 
-:computer: I am studying to be a fullstack developer @ [Cubos Academy](https://cubos.io/#academy)
+I am studying to be a fullstack developer @ [Cubos Academy](https://cubos.io/#academy) :computer:
 
-I **love** music:saxophone:, I **love** literature:books:, I love poetry, movies, series, anything that is related to any kind of art, and because of that my friends always ask me why did I choose to study engineering  _(still do not know the answer, but I love it too)_ 
+I listen to music all day long:saxophone:, I read books all night long:books:, sometimes I try to write poetry. I also like math, history, travel and cooking (better at it than at writing poetry, but it is not that hard).
 
 > "[...]And medicine, law, business, engineering, these are noble pursuits and necessary to sustain life. But poetry, beauty, romance, love, these are what we stay alive for.[...]"   - Dead poets society
